@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "npm-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devender singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "buffer": "^6.0.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
